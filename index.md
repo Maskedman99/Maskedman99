@@ -1,3 +1,0 @@
-# Maskedman
-*About*  
-Hello
