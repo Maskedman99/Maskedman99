@@ -4,15 +4,14 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=Maskedman99.Maskedman99" alt="visitor badge"/>
     </h2>
 </p>
-
-*https://maskedman99.github.io/*  
+ 
 I'm a big react fan
 
 <p align = "center">
   <img alt="react" src="https://raw.githubusercontent.com/Maskedman99/Maskedman99/master/react.svg?sanitize=true" width="200">
 </p>
 
-[![Maskedman99's github stats](https://github-readme-stats.vercel.app/api?username=Maskedman99&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Maskedman99's github stats](https://github-readme-stats.vercel.app/api?username=Maskedman99&show_icons=true)
 
  ---
 
