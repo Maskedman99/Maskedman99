@@ -8,10 +8,10 @@
 I'm a big react fan
 
 <p align = "center">
-  <img alt="react" src="https://raw.githubusercontent.com/Maskedman99/Maskedman99/master/react.svg?sanitize=true" width="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maskedman99&show_icons=true" alt="" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Maskedman99/Maskedman99/master/react.svg?sanitize=true" width="200" alt="react"/>
 </p>
-
-![Maskedman99's github stats](https://github-readme-stats.vercel.app/api?username=Maskedman99&show_icons=true)
 
  ---
 
