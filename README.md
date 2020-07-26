@@ -20,4 +20,6 @@
   <a href="https://codepen.io/Maskedman99/pens/"><img height="24" alt="CodePen" src="https://raw.githubusercontent.com/Maskedman99/Maskedman99/master/codepen.svg"></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rohit-prasad-819a8015a/"><img height="24" alt="LinkedIn" src="https://raw.githubusercontent.com/Maskedman99/Maskedman99/master/linkedIn.svg"></a>
+  &nbsp;&nbsp;
+  <a href="https://maskedman99.github.io/"><img height="24" alt="Website" src="https://raw.githubusercontent.com/Maskedman99/Maskedman99/master/externalLink.svg"></a>
 </p>
