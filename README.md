@@ -7,8 +7,6 @@
 </p>
  
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maskedman99&show_icons=true&hide_title=true&hide_rank=true&hide_border=true" alt="" />
-  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Maskedman99/Maskedman99/master/react.svg?sanitize=true" width="200" alt="react"/>
 </p>
 
