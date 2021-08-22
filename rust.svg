@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 <defs>
   <linearGradient id="myGradient" gradientTransform="rotate(90)">
-    <stop offset="5%"  stop-color="orange">
-      <animate attributeName="stop-color" values="orange;red;orange;orange;orange;yellow;orange" dur="14s" repeatCount="indefinite" />
+    <stop offset="5%"  stop-color="yellow">
+      <animate attributeName="stop-color" values="orange;red;orange;" dur="14s" repeatCount="indefinite" />
     </stop>
     <stop offset="95%" stop-color="orange">
-      <animate attributeName="stop-color" values="orange;yellow;orange;red;orange" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="stop-color" values="orange;red;orange;" dur="7s" repeatCount="indefinite" />
     </stop>
   </linearGradient>
 </defs>
