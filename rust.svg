@@ -2,10 +2,10 @@
 <defs>
   <linearGradient id="myGradient" gradientTransform="rotate(90)">
     <stop offset="5%"  stop-color="orange">
-      <animate attributeName="stop-color" values="orange;red;orange;yellow;orange" dur="14s" repeatCount="indefinite" />
+      <animate attributeName="stop-color" values="orange;red;orange;orange;orange;yellow;orange" dur="14s" repeatCount="indefinite" />
     </stop>
     <stop offset="95%" stop-color="orange">
-      <animate attributeName="stop-color" values="orange;red;purple;orange;yellow;purple;orange" dur="13s" repeatCount="indefinite" />
+      <animate attributeName="stop-color" values="orange;yellow;orange;red;orange" dur="7s" repeatCount="indefinite" />
     </stop>
   </linearGradient>
 </defs>
