@@ -8,7 +8,7 @@
 
 <p>
   <h3>
-    I've moved to Gitlab. Find me at https://gitlab.com/Maskedman99/
+    Find me at https://gitlab.com/Maskedman99/
   </h3>
 </p>
 
