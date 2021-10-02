@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  <h3>
+  <h4>
     Find me at https://gitlab.com/Maskedman99/
-  </h3>
+  </h4>
 </p>
 
 <p align = "center">
