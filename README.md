@@ -1,8 +1,6 @@
 <p align='justify'> 
   <h2>
     Hi there, I'm Rohit Prasad.
-    &nbsp; &nbsp;
-    <img src="https://maskedman-visitor-badge.glitch.me/badge?page_id=Maskedman99.Maskedman99" alt=""/>
   </h2>
 </p>
 
